@@ -23,5 +23,4 @@ const bfs = function(rootNode, targetNode) {
 
         queue.shift();
     }
-
 }
