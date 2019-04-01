@@ -57,3 +57,5 @@ function swap(array, firstItemIndex, lastItemIndex) {
     array[firstItemIndex] = array[lastItemIndex];
     array[lastItemIndex] = tmp;
 }
+
+//runs in O(n log n) time.
